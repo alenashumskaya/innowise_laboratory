@@ -1,0 +1,8 @@
+[project]
+name = "innowise_laboratory"
+version = "0.1.0"
+description = "Main logic for lab project"
+requires-python = ">=3.10"
+
+[project.dependencies]
+colorama = 
